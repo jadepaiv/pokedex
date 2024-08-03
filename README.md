@@ -4,9 +4,8 @@ Esse projeto é um **decodificador de texto** inspirado nos ensinamentos do curs
 
 ## Processo de Desenvolvimento
 
-1. **Criação de Interfaces**: Utilização de HTML para estrutura e CSS para estilização.
-2. **Lógica de Criptografia e Descriptografia**: Implementada em JavaScript.
-
+**Criação de Interfaces** utilizando HTML para estrutura e CSS para estilização.
+**Lógica de Criptografia e Descriptografia** implementada em JavaScript.
 
 
 ## Aprendizado e Reflexões
