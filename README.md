@@ -12,3 +12,8 @@ Esse projeto é um **decodificador de texto** inspirado nos ensinamentos do curs
 
 Este projeto foi um marco significativo na minha transição de carreira, proporcionando uma valiosa oportunidade de aprimorar conhecimentos em HTML e CSS, além de aplicar práticas de desenvolvimento com JavaScript. 
 
+## Decodificador Disponível Online
+
+https://pokedex-chi-blond.vercel.app/
+
+
