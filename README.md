@@ -1,6 +1,6 @@
 ## Descrição do Projeto
 
-Esse projeto é um **decodificador de texto** inspirado nos ensinamentos do curso de programação iniciante oferecido pela **Alura**, em parceria com a **Oracle**, através do projeto **One**. O objetivo principal é implementar uma ferramenta que criptografa e descriptografa texto utilizando **JavaScript**, **HTML**, e **CSS**. Eu me inspirei na Pokedex do universo Pokémon para a realização do conteúdo desse projeto de decodificador, criando assim um decodificador de nomes Pokémon.
+Esse projeto é um **decodificador de texto** inspirado nos ensinamentos do curso de programação iniciante oferecido pela **Alura**, em parceria com a **Oracle**, através do projeto **One**. O objetivo principal é implementar uma ferramenta que criptografa e descriptografa texto utilizando **JavaScript**, **HTML**, e **CSS**. Eu me inspirei na Pokedex do universo Pokémon para a realização do conteúdo desse projeto, criando assim uma Pokedex online decodificadora de nomes de Pokémons.
 
 ## Processo de Desenvolvimento
 
