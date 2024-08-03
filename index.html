@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    
+    <title>Pokedex</title>
+</head>
+<body>
+    <main>
+        
+        <section class="container">
+            <img id="logo" src="img/pokebola logo.png" alt="logo pokebola">
+            
+            <div class="box__input">
+                <div class="digite-texto">
+                    <textarea name="text-input" id="text-input" cols="38" rows="13" placeholder="Digite aqui o nome Pokémon"></textarea>
+                </div>
+                <div class="digite__texto"><p>
+                    <img src="img/exclamation.png" alt="exclamacao">  Apenas letras minúsculas e sem acento.
+                </p></div>
+                <div class="botoes">
+                    <button class="cripto" onclick="botaoCriptografar()">
+                        Criptografar
+                    </button>
+                    <button class="descripto" onclick="botaoDescriptografar()">
+                        Descriptografar
+                    </button>
+                </div>
+            </div>
+            <div class="saida">
+                <div class="conteudo-resultado-vazio">
+                    <img id="img" src="img/pikachu logo.png" alt="pikachu">
+                    <h2>
+                        Nenhuma palavra encontrada
+                    </h2>
+                    <p2>
+                        Digite o nome do pokémon que você deseja criptografar ou descriptografar.
+                    </p2>
+                </div>
+                <div class="conteudo-resultado-ok">
+                    <textarea id="text-output" cols="30" rows="20"></textarea>
+                    <button class="copiar" onclick="copiar()">Copiar</button>
+                </div>
+            </div>
+
+        </section>
+    </main>
+    <footer>
+        <div class="rodape">
+        <p class="marlon">Desenvolvido por Jade Ramos de Paiva</p>
+        <a href="https://github.com/jadepaiv" target="_blank">
+            <img src="img/Logo Github.png" alt="Logo GitHub">
+        </a>
+        </div>
+    </footer>
+    <script src="app.js" defer></script>
+</body>
+</html> 
