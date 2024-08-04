@@ -82,7 +82,7 @@ main {
     border: none;
     background: none;
     width: auto;
-    max-width: 680px;
+    max-width: 650px;
     font-size: 28px;
     color: #c21c1c;
     resize: none;
@@ -209,10 +209,10 @@ main {
 
 
 .digite__texto {
-    display: flex;
+    display: auto;
     align-items: flex-start;
     margin-top: 200px;
-    width: 100;
+    width: 100%;
     
 }
 
