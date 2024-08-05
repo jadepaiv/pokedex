@@ -7,6 +7,7 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: white;
+    overflow-x: auto;
 }
 
 body {
@@ -291,15 +292,18 @@ a {
 .rodape {
     display: flex;
     align-items: center;
-    position: relative;
+    position: fixed;
+    bottom: 0;
     justify-content: center;
-    padding: auto;
-    left: auto;
-    right: auto;
+    padding: 1 rem;
+    left: 0;
+    width: 100%;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 40px;
+    font-weight: 700;
     font-style: normal;
     color:aquamarine;
     background-color: #050505;
+    box-sizing: border-box;
+    z-index: 1000;
 }
